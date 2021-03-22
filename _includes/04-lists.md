@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Read
+* go out
+* eat
+* learn
+  * about the bible
